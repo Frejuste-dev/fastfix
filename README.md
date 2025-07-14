@@ -1,9 +1,9 @@
 
-# 🎫 Système de Ticketing Informatique (SITI) - SIBM
+# 🎫 Système de Ticketing Informatique (fastfix) - SIBM
 
 ## 🚀 Présentation du projet
 
-Le projet **Système de Ticketing Informatique (SITI)** vise à offrir à la **SIBM (Société Ivoirienne de Béton Manufacturé)** une solution moderne et centralisée de gestion des incidents IT et des demandes d’assistance, réparties sur ses différents sites géographiques.
+Le projet **Système de Ticketing Informatique (fastfix)** vise à offrir à la **SIBM (Société Ivoirienne de Béton Manufacturé)** une solution moderne et centralisée de gestion des incidents IT et des demandes d’assistance, réparties sur ses différents sites géographiques.
 
 Cette application permettra :
 
